@@ -1,0 +1,11 @@
+---
+title: "Testing Git"
+author: "Steven Lawrence"
+date: "September 12, 2019"
+output: html_document
+---
+
+# section 1
+```{r}
+2+1
+```
